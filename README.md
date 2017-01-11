@@ -38,7 +38,7 @@ I appreciate challenging and creative projects, as a programmer I’m in a const
 ## Badges
 [Oracle Certified Associate, Java SE 8 Programmer](https://www.youracclaim.com/badges/026451d6-253b-4bc0-9303-5345e81402c1/public_url)
 
-## Publicatons (in portuguese)
+## Publications (in portuguese)
 > Bogarin, E., Acquati, K., Mar, C., Neles, K., Vieira, S. “Uso da Prototipagem no Processo de Desenvolvimento de um Sistema de Informação: Um estudo de caso em uma IES”. I Congresso Amazônico de Computação e Sistemas Inteligentes (CACSI 2015), p.168-178.
 > [Paper](https://dl.dropboxusercontent.com/u/626131/CACSI-Anais2015.pdf)
 
