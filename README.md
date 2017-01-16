@@ -45,9 +45,9 @@ I appreciate challenging and creative projects, as a programmer I’m in a const
 ## Courses
 Alura | CodeSchool | Udemy
 ------------ | ------------- | ------------- 
-[user profile](https://cursos.alura.com.br/user/erick-bogarin) | [user profile](http://codeschool.com/users/erickbogarin) | [user profile](https://www.udemy.com/user/erick-bogarin/) 
+[profile](https://cursos.alura.com.br/user/erick-bogarin) | [profile](http://codeschool.com/users/erickbogarin) | [profile](https://www.udemy.com/user/erick-bogarin/) 
 
-## Read Books
+## Reading Books
 **Check at** [Goodreads](https://www.goodreads.com/user/show/56425204-erick)
 
 ## Wants to Learn
