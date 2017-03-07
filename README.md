@@ -7,21 +7,17 @@
 **Email**: erick.bogarin@gmail.com
 
 ## About me
-Hi, I’m Erick Bogarin, a web developer from Brazil who lives in Manaus. I’m extremely passionate about software development and I spend my days with my hands in many different areas of web development from back-end programming to front-end engineering, user experience and visual design.
+Hi, I’m Erick Bogarin, a web developer from Brazil who lives in Manaus. I’m extremely passionate about software development and I spend my days with my hands focused in front-end engineering, user experience and visual design.
 
 I appreciate challenging and creative projects, as a programmer I’m in a constantly search for better practices and also experimenting new technologies. I love to work and colaborate with the community, in my spare time I like to write on my blog or teach my friends about something that I’ve learned.
 
 ## Skills
-* Python
-* Ruby
-* Java
-* PHP
+* HTML5 & CSS
 * Modern Javascript
 * Design Patterns
-* HTML5 & CSS
 * jQuery
 * Javascript Frameworks
-* Front End Frameworks
+* CSS Frameworks
 * CSS Preprocessors
 * RESTful Services and APIs
 * Responsive and Mobile Design
@@ -31,6 +27,10 @@ I appreciate challenging and creative projects, as a programmer I’m in a const
 * User Experience
 * SEO
 * Scrum and Kanban
+* Python
+* Ruby
+* Java
+* PHP
 
 ## Education
 **Information Systems BA in Faculdade Fucapi** - 2011 - 2015
@@ -43,9 +43,10 @@ I appreciate challenging and creative projects, as a programmer I’m in a const
 > [Paper](https://dl.dropboxusercontent.com/u/626131/CACSI-Anais2015.pdf)
 
 ## Courses
-Alura | CodeSchool | Udemy
------------- | ------------- | ------------- 
-[profile](https://cursos.alura.com.br/user/erick-bogarin) | [profile](http://codeschool.com/users/erickbogarin) | [profile](https://www.udemy.com/user/erick-bogarin/) 
+Check my profile on the plataforms bellow to know what I've learned so far:
+- Alura [profile](https://cursos.alura.com.br/user/erick-bogarin)
+- Codeschool [profile](http://codeschool.com/users/erickbogarin)
+- Udemy [profile](https://www.udemy.com/user/erick-bogarin/) 
 
 ## Reading Books
 **Check at** [Goodreads](https://www.goodreads.com/user/show/56425204-erick)
@@ -60,10 +61,8 @@ Alura | CodeSchool | Udemy
 * Fabric
 * Flask
 * Game development
-* GraphQL
 * Go Language
 * iOS Development
-* Jest
 * Lean
 * Progressive Web Apps
 * PouchDB
